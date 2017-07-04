@@ -1,0 +1,6 @@
+c:\users\chris\documents\visual studio 2015\Projects\Lab6 - strings\Lab6 - strings\bin\Debug\Lab6 - strings.exe.config
+c:\users\chris\documents\visual studio 2015\Projects\Lab6 - strings\Lab6 - strings\bin\Debug\Lab6 - strings.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab6 - strings\Lab6 - strings\bin\Debug\Lab6 - strings.pdb
+c:\users\chris\documents\visual studio 2015\Projects\Lab6 - strings\Lab6 - strings\obj\Debug\Lab6 - strings.csprojResolveAssemblyReference.cache
+c:\users\chris\documents\visual studio 2015\Projects\Lab6 - strings\Lab6 - strings\obj\Debug\Lab6 - strings.exe
+c:\users\chris\documents\visual studio 2015\Projects\Lab6 - strings\Lab6 - strings\obj\Debug\Lab6 - strings.pdb
