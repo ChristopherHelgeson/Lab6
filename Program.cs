@@ -53,8 +53,8 @@ namespace Lab6___strings
                 Console.Write("Enter a word, phrase, or sentence to be translated: ");
                 x = Console.ReadLine();
                 //Add space at end so BuildWordsFromCharArray method works.
-                x = x + " ";
             }
+            x = x + " ";
             return x;
         }
 
